@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GDScript, Python and Java.
 - 👯 I’m looking to collaborate on Blender, and some other open source projects
 - 🤔 I’m looking for help with making Games or assests as I am really bad at that game
-- 💬 Ask me about anything Java beginner, or any OOP concepts.
+- 💬 Ask me about anything [here](https://github.com/Sammie156/Sammie156/issues)
 - 📫 How to reach me: Mail : samanwayadatta@gmail.com 
 - 😄 Pronouns: He. Always!!!
 - ⚡ Fun fact: I cannot ride a Bicycle even tho I am 15(as of 2021)
