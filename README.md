@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on learning Godot, and working on a Console RPG made using Java
-- 🌱 I’m currently learning GDScript, Python and Java.
+- 🔭 Currently learning C/C++, and C# and advanced Java Concepts
+- 📘 Looking forward to making my own Game Engine using OpenGL.
 - 👯 I’m looking to collaborate on Blender, and some other open source projects
-- 🤔 I’m looking for help with making Games or assests as I am really bad at that game
 - 💬 Ask me about anything [here](https://github.com/Sammie156/Sammie156/issues)
 - 📫 How to reach me: Mail : samanwayadatta@gmail.com 
 - 😄 Pronouns: He. Always!!!
