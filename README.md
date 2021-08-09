@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I cannot ride a Bicycle even tho I am 15(as of 2021)
 
 [![Sammie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammie156&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sammie156&repo=HyperVision)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sammie156/Sammie156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
