@@ -7,4 +7,4 @@
 
 ## About Me:
 I graduated high school in 2023, and am pursuing a degree in Electrical and Computer Science Engineering. 
-I am currently proficient in Java, and am learning Web development and Rust on the sidetrack. 
+I am currently proficient in C/C++, and am learning Web development while sticking to some systems programming.
